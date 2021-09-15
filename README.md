@@ -11,6 +11,9 @@
 #Github
 ```
 Create Release v0.1
+ git tag v0.1
+    git push origin --tags
+
 
 ```
 
