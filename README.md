@@ -14,7 +14,7 @@ Create Release v0.1
 
 ```
 
-Go to https://packagist.org/  and update
+
 Go to https://packagist.org/  and update
 ```
 6. Update 
